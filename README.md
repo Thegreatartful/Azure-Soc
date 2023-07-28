@@ -1,6 +1,4 @@
 
-![(bfr)syslog-ssh-suth-fail](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/cdff3058-c80a-4dfc-8a4e-42ef62c29007)
-
 # Building a SOC + Honeynet in Azure (Live Traffic)
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
@@ -37,11 +35,13 @@ For the "BEFORE" metrics, initial resources were deployed and exposed to the int
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic, with the exception of my admin workstation. All other resources were protected by their built-in firewalls as well as private endpoints.
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Allowed Inbound Malicious Flows](https://i.![(bfr)mssql-auth-fail-allowed-in](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/efe7efdf-365e-42b2-8531-!!![(bfr)syslog-ssh-suth-fail](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/0d79a182-7c59-4d67-98e1-6392fb6341ef)
-[(bfr)rdp-authfail-windows](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/b2e5299f-b130-4eda-95e5-6101f570063b)
-[(bfr)nsg-malicious-allowed-in](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/425b18ac-e45f-4a08-b08a-c4a073def30a)
-d4ea76d8f14b)
-imgur.com/1qvswSX.png)<br>
+![(bfr)mssql-auth-fail-allowed-in](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/e73e7997-3e4a-4578-9061-23b2afdaf451)
+![(bfr)nsg-malicious-allowed-in](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/67f8d5d1-69cd-405f-ba03-8092ca380c79)
+![(bfr)rdp-authfail-windows](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/61fbb053-4028-4bed-aceb-47ab31f96ae6)
+![(bfr)syslog-ssh-suth-fail](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/90022400-54b8-4d80-aa52-5c11329691e2)
+
+
+
 ![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
 
