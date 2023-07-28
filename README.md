@@ -35,7 +35,7 @@ For the "BEFORE" metrics, initial resources were deployed and exposed to the int
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic, with the exception of my admin workstation. All other resources were protected by their built-in firewalls as well as private endpoints.
 
 ## Attack Maps Before Hardening / Security Controls
-Respectively: 1. mssql-auth-fail-allowed-in; 2. nsg-malicious-allowed-in; 3. rdp-authfail-windows; 4. syslog-ssh-auth-fail.
+Respectively, from the top image down: 1. mssql-auth-fail-allowed-in; 2. nsg-malicious-allowed-in; 3. rdp-authfail-windows; 4. syslog-ssh-auth-fail.
 ![(bfr)mssql-auth-fail-allowed-in](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/e73e7997-3e4a-4578-9061-23b2afdaf451)<br>
 ![(bfr)nsg-malicious-allowed-in](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/67f8d5d1-69cd-405f-ba03-8092ca380c79)<br>
 ![(bfr)rdp-authfail-windows](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/61fbb053-4028-4bed-aceb-47ab31f96ae6)<br>
