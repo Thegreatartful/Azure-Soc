@@ -1,3 +1,6 @@
+
+![(bfr)syslog-ssh-suth-fail](https://github.com/Thegreatartful/Azure-Soc/assets/139084546/cdff3058-c80a-4dfc-8a4e-42ef62c29007)
+
 # Building a SOC + Honeynet in Azure (Live Traffic)
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
