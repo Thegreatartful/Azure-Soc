@@ -59,7 +59,7 @@ Stop Time 2023-07-26 23:25 EST
 ## Attack Maps after Hardening / Security Controls
 
 ```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
-(Maps cannot be generated without malicious activity. Imagine a map with NO hotspots.)
+(Maps cannot be generated without malicious activity. Imagine a map with NO hotspots in the same / previous aforementioned categories as the "Before Hardening / Security Controls metrics.)
 
 ## Metrics After Hardening / Security Controls
 
